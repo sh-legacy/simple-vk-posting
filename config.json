@@ -1,0 +1,6 @@
+{
+  "anticaptcha_key": "ВАШ КЛЮЧ АККАУНТА ОТ anti-captcha.com",
+  "min_interval": "1",
+  "max_interval": "10",
+  "vk_access_token": "ВАШ ТОКЕН VK"
+}

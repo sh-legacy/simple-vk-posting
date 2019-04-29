@@ -1,0 +1,12 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/console": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Commands\\": "commands/",
+            "Services\\": "services/"
+        }
+    }
+}
